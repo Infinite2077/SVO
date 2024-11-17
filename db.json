@@ -1,6 +1,12 @@
 {
     "users": [
-
+        {
+            "id": 52,
+            "name": "Mykyta",
+            "surname": "Illarionov",
+            "photo_url": "https://icdn.lenta.ru/images/2024/02/13/15/20240213153557979/square_1280_a385e839c620cfe842de9761e74900e2.jpg",
+            "balance": 1488
+        }
         
     ]
 }
