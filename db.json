@@ -16,6 +16,15 @@
             "balance":1500
         }
         
+    ],
+    "products": [
+       {
+        "id": 3,
+        "name": "Skibidi Utilisator",
+        "price": 5000 ,
+        "photo_url": "https://content2.rozetka.com.ua/goods/images/big/368423065.jpg"
+    } 
+
     ]
     
 }
