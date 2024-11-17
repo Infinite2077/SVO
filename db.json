@@ -1,12 +1,29 @@
 {
     "users": [
         {
+<<<<<<< HEAD
             "id": 52,
             "name": "Mykyta",
             "surname": "Illarionov",
             "photo_url": "https://icdn.lenta.ru/images/2024/02/13/15/20240213153557979/square_1280_a385e839c620cfe842de9761e74900e2.jpg",
             "balance": 1488
+=======
+            "id": 1,
+            "name": "Vladislave",
+            "surname": "Chebocsarovich",
+            "photo_url": "https://uft.lol/wp-content/uploads/2023/06/3WZeeXlhu6M.jpg",
+            "balance":1500
+            
+        },
+        {
+            "id": 2,
+            "name": "Bachok",
+            "surname": "Murahmatovich",
+            "photo_url": "https://i.redd.it/28ehli148abc1.jpeg",
+            "balance":1500
+>>>>>>> 6fe2349cfd7567fc17fc86f86b2b6fa95f6add5e
         }
         
     ]
+    
 }
