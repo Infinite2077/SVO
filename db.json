@@ -1,6 +1,21 @@
 {
     "users": [
-
+        {
+            "id": 1,
+            "name": "Vladislave",
+            "surname": "Chebocsarovich",
+            "photo_url": "https://uft.lol/wp-content/uploads/2023/06/3WZeeXlhu6M.jpg",
+            "balance":1500
+            
+        },
+        {
+            "id": 1,
+            "name": "Bachok",
+            "surname": "Murahmatovich",
+            "photo_url": "https://i.redd.it/28ehli148abc1.jpeg",
+            "balance":1500
+        }
         
     ]
+    
 }
